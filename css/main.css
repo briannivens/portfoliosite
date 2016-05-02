@@ -1,0 +1,16 @@
+*{
+box-sizing: border-box;
+}
+body{
+background-color: #6AA121;
+}
+.jumbotron{
+  background-image: url("./images/black-bear-clip-art-18.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  margin-top:40px;
+  padding: 20%;
+  background-attachment: fixed;
+  background-position: center -238px;
+}
